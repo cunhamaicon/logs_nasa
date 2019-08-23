@@ -9,3 +9,5 @@ No arquivo preprocess_logs_nasa.html (preprocess_logs_nasa.ipynb é o mesmo arqu
 Se você quiser pular direto para a solução do problema e visualizar o dashboard acesse:
 
 https://public.tableau.com/profile/maicon.henrique.cunha#!/vizhome/dashboard_tableau/Resumo
+
+Em questionario.pdf estão as respostas das perguntas do desafio.
