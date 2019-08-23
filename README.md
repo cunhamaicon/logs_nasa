@@ -2,7 +2,7 @@
 
 Tratamento dos dados e criação de um dashboard para analisar as requisições para o servidor NASA Kennedy Space Center WWW na Flórida por um período específico.
 
-Como sugestão, para ter acesso a todos os links, sugiro baixar a pasta inteira para olhar os arquivos e não apenas a visualização obtida através de github.com, que limita os links contidos nos pdfs, além de mostrar o código html do arquivo gerado e não a página web em si (que neste caso seria o interesse).
+Para ter acesso a todos os links, sugiro baixar a pasta inteira para olhar os arquivos e não apenas a visualização obtida através de github.com, que limita os links contidos nos pdfs, além de mostrar o código html do arquivo gerado e não a página web em si (que neste caso seria o interesse).
 
 Para entender essa pasta primeiramente você deve ler o arquivo diariodebordo.pdf. Ele contém informações fundamentais sobre o processo de resolução do problema.
 
